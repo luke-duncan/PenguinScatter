@@ -1,0 +1,16 @@
+.hidden
+{
+    display: none;
+}
+
+body
+{
+    background-color: beige
+}
+
+button
+{
+   
+    background-color: aqua;
+    font-family: fantasy;
+}
